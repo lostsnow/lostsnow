@@ -6,10 +6,10 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-<img src="https://github-profile-trophy.vercel.app/?username=lostsnow&theme=nord&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lostsnow&theme=nord&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lostsnow&show_icons=true&count_private=true&theme=prussian" alt="lostsnow" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostsnow&count_private=true&layout=compact&theme=prussian" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lostsnow&show_icons=true&count_private=true&theme=prussian)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lostsnow&count_private=true&layout=compact&theme=prussian)
 
 <!--
 **lostsnow/lostsnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
