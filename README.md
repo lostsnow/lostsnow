@@ -5,7 +5,6 @@
 ![Gists Badge](https://badges.pufler.dev/gists/lostsnow)
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lostsnow&theme=nord&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lostsnow&show_icons=true&count_private=true&theme=prussian)
