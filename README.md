@@ -5,7 +5,6 @@
 ![Gists Badge](https://badges.pufler.dev/gists/lostsnow)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lostsnow&show_icons=true&count_private=true&theme=prussian)
-
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lostsnow&count_private=true&layout=compact&theme=prussian)
 
 <!--
