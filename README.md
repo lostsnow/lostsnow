@@ -4,10 +4,8 @@
 ![Repos Badge](https://badges.pufler.dev/repos/lostsnow)
 ![Gists Badge](https://badges.pufler.dev/gists/lostsnow)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lostsnow&theme=nord&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lostsnow&show_icons=true&count_private=true&theme=prussian)
+
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lostsnow&count_private=true&layout=compact&theme=prussian)
 
 <!--
